@@ -156,6 +156,8 @@ Configuration → Hosts → Create host
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/82c536cd-3c53-400f-bbed-42f3c1797dbd" />
 
 
+Add VMs to be mointoring on zabbix 
+1- add app01 
 
  
  
