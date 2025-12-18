@@ -157,19 +157,32 @@ Configuration → Hosts → Create host
 
 
 Add VMs to be mointoring on zabbix 
+
 ==> add all hosts Name on the hosts file 
+
 ==> create hosts for the belwo :
+
 APP01 : 
+
 to be monitor tomcat  should be download JMX on server zabbix " Hava-gateway zabbix" and enable it on the client 
+
 and also download agent 
+
 Web01 : 
+
 download agent and using nginx services 
+
 db01 : 
+
 download agent and using mysql by agent to monitor DB 
+
 memchach & Rabbitmq : 
+
 Downlad agent and using memechase and rabbitmq using agent 
 
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/6ec98dc8-249f-427f-b58a-bdaf14925cae" />
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/450cac5a-802e-40bf-b142-c83dccfc51b2" />
+
 
 
  
